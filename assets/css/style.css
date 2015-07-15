@@ -69,7 +69,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
 	font-weight: 700;
-    color: #323232;
+    color: #f58020;
 }
 
 
@@ -83,18 +83,18 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default {
-	background-color: #f58020;
-	border-color: #f58020;
+	background-color: #ffffff;
+	border-color: #ffffff;
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
 	color: #4b4bfb;
 	background-color: transparent;
-	border-bottom: 2px solid #0000ff;
+	border-bottom: 2px solid #f58020;
 }
 
 .navbar-default .navbar-nav > li > a {
-	color: #0000ff;
+	color: #f58020;
 }
 
 /* ==========================================================================
@@ -154,7 +154,7 @@ h1, h2, h3, h4, h5, h6 {
 #footerwrap {
 	padding-top: 70px;
 	padding-bottom: 50px;
-	background-color: #9191fc;
+	background-color: #f9a66e;
 }
 
 #footerwrap p {
