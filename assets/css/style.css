@@ -80,7 +80,6 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-default .navbar-brand {
 	color: #f58020;
 	height: 65px;
-	margin: auto;
 }
 
 .navbar-default {
@@ -125,8 +124,8 @@ h1, h2, h3, h4, h5, h6 {
 
 #headerwrap h1 {
 	color:#323232;
-	padding-top: 10px;
-	padding-bottom: 20px;
+	padding-top: 15px;
+	padding-bottom: 15px;
 	letter-spacing: 4px;
 	font-size: 80px;
 	font-weight: bold;
