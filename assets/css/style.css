@@ -75,7 +75,6 @@ h1, h2, h3, h4, h5, h6 {
 
 .navbar-brand {
 	font-weight: 700;
-	color: #ffffff;
 }
 
 .navbar-default .navbar-brand {
@@ -83,7 +82,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default {
-	background-color: transparent;
+	background-color: #ffffff;
 	border-color: transparent;
 }
 
