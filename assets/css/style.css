@@ -112,7 +112,7 @@ h1, h2, h3, h4, h5, h6 {
 	background: url(../img/back.jpg) no-repeat center top;
 	margin-top: -70px;
 	padding-top: 200px;
-	text-align:center;
+	text-align: center;
 	background-attachment: relative;
 	background-position: center center;
 	min-height: 600px;
@@ -130,7 +130,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #headerwrap h1 {
-	color:#323232;
+	color: #ffffff;
 	padding-top: 40px;
 	padding-bottom: 15px;
 	letter-spacing: 4px;
