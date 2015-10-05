@@ -162,7 +162,8 @@ h1, h2, h3, h4, h5, h6 {
 #footerwrap {
 	padding-top: 70px;
 	padding-bottom: 50px;
-	background-color: #f9a66e;
+	/*background-color: #f9a66e;*/
+	background-color: #A4A4A4;
 }
 
 #footerwrap p {
