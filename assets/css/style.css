@@ -131,8 +131,8 @@ h1, h2, h3, h4, h5, h6 {
 
 #headerwrap h1 {
 	color: #323232;
-	padding-top: 40px;
-	padding-bottom: 15px;
+	padding-top: 10px;
+	padding-bottom: 5px;
 	letter-spacing: 4px;
 	font-size: 55px;
 	font-weight: bold;
