@@ -83,13 +83,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-brand {
+	background-color: transparent;
 	/*color: #f58020;
 	color: #424242;
-	color: #000000;*/
-	height: 65px;
+	color: #000000;
+	height: 65px;*/
 }
 
 .navbar-default {
+	background-color: transparent;
 	/*background-color: #f58020;
 	border-color: #f58020;
 	background-color: #424242;
