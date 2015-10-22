@@ -85,8 +85,8 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-default .navbar-brand {
 	/*color: #f58020;
 	color: #424242;*/
-	color: #ffffff;
-	height: 65px;
+	/*color: #ffffff;
+	height: 65px;*/
 }
 
 .navbar-default {
@@ -94,8 +94,8 @@ h1, h2, h3, h4, h5, h6 {
 	border-color: #f58020;
 	background-color: #424242;
 	border-color: #424242;*/
-	background-color: #ffffff;
-	border-color: #ffffff;
+	/*background-color: #ffffff;
+	border-color: #ffffff;*/
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
