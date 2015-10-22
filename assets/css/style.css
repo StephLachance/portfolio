@@ -14,7 +14,7 @@
    ========================================================================== */
 
 @import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url (https://fonts.googleapis.com/css?family=Fjalla+One);
+/*@import url (https://fonts.googleapis.com/css?family=Fjalla+One);*/
 
 
 ::-moz-selection {
@@ -75,7 +75,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /*headerimage*/
 #headerimage img {
-	margin-top: -7px;
+	margin-top: -6px;
 }
 
 .navbar-brand {
@@ -90,6 +90,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default {
+	background-color: transparent;
+	border-color: transparent;
 	/*background-color: #f58020;
 	border-color: #f58020;
 	background-color: #424242;
